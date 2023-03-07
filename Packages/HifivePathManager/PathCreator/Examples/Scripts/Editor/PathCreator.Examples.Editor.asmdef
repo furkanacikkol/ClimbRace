@@ -1,0 +1,22 @@
+{
+    "name": "PathCreator.Examples.Editor",
+    "references": [
+        "PathCreator.Examples",
+        "PathCreator",
+        "PathCreatorEditor",
+        "UnityEditor.UI",
+        "UnityEngine.UI",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
